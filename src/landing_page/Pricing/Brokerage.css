@@ -1,0 +1,8 @@
+@media screen and (max-width:576px) {
+    ul{
+        padding: 0;
+    }
+    h5{
+        margin-bottom: 24px;
+    }
+}
